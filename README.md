@@ -38,12 +38,10 @@
 ![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=magamahae&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=magamahae&theme=radical&hide_border=false)
 
-## 🌟 Repos destacados
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=magamahae&repo=tu-primer-repo&theme=radical)](https://github.com/magamahe/TRABAJOS_ADA.git)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=magamahae&repo=otro-repo-interesante&theme=radical)](https://github.com/magamahe/PROYECTO_FINAL_YELP.git)
 
 
 ### ✍️ Random Dev Quote
