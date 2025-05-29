@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Pixel Snake" width="80" />
-</p>
-
 # 💫 About Me: <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" />
 <p align="center">
 
