@@ -9,8 +9,6 @@
 
 💡 Como mujer en tecnología, creo profundamente en la diversidad como motor del cambio. Busco motivar a otras mujeres a animarse a programar y ocupar espacios en este apasionante mundo digital.<br><br>
 
-💼 Actualmente, estoy abierta a **nuevas oportunidades laborales** y también disponible para trabajar como **freelancer**. ¿Tenés un proyecto? ¿Buscás a alguien con compromiso, creatividad y muchas ganas? ¡Charlemos!<br><br>
-
 ✨ ¡Soñemos en código y construyamos juntos el futuro!
 
 </p>
