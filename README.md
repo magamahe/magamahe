@@ -39,8 +39,12 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=magamahae&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=magamahae&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=magamahae&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=magamahae&theme=radical&hide_border=false)
+
+## 🌟 Repos destacados
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=magamahae&repo=tu-primer-repo&theme=radical)](https://github.com/magamahe/TRABAJOS_ADA.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=magamahae&repo=otro-repo-interesante&theme=radical)](https://github.com/magamahe/PROYECTO_FINAL_YELP.git)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
