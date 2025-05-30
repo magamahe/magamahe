@@ -1,5 +1,6 @@
 # 💫 About Me: <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" />
 <p align="center">
+  
 ![👀 Visitas](https://badgen.net/visitor/magamahe/github-visits)
 
 [![](https://visitcount.itsvg.in/api?id=magamahe&label=👁‍🗨%20Visitas&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
