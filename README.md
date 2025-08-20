@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=ff69b4&width=600&lines=Transformando+datos+en+decisiones;Creando+interfaces+modernas;Explorando+la+nube+en+Azure" />
 </p>
 
-<br>## 
+<br>
 
 Soy **Maria Gabriela**, analista de datos y desarrolladora full stack de Argentina, apasionada por **convertir datos en decisiones inteligentes** y crear **soluciones tecnológicas innovadoras**.  
 
