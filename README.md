@@ -4,7 +4,7 @@
 <p align="center">
   <!-- Banner animado -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/magamahe/img/assets/tech-banner.svg" alt="Tech Banner" width="700"/>
+  <img src="https://github.com/magamahe/img/blob/main/assets/tech-banner.svg" alt="Tech Banner" width="700"/>
 </p>
 
 
