@@ -1,6 +1,10 @@
 # 💫 About Me: <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" />
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&width=600&lines=Analista+de+Datos+|+Full+Stack+Developer+|+AI+Enthusiast" alt="Typing SVG">
+</p>
+
+<p align="center">
   <!-- Texto animado -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=ff69b4&width=600&lines=Transformando+datos+en+decisiones;Creando+interfaces+modernas;Explorando+la+nube+en+Azure" />
 </p>
