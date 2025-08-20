@@ -2,7 +2,7 @@
 <p align="center">
   
 <br>👋 ¡Hola a todos! Mi nombre es Maria Gabriela, una apasionada programadora y analista de datos de Argentina con un ardiente deseo de aprender y destacar en el mundo de la tecnología.<br><br>🚀 Mi viaje en la programación comenzó con una chispa de curiosidad y ha evolucionado en una pasión inquebrantable por crear soluciones innovadoras y eficientes. Cada línea de código que escribo es una oportunidad para mejorar, aprender y avanzar.<br><br>🌱 Estoy en constante búsqueda de desafíos que amplíen mis horizontes y me permitan colaborar en proyectos impactantes. Me emociona participar en comunidades de código abierto, donde la colaboración y el aprendizaje mutuo son el corazón de la innovación.<br><br>💡 Creo firmemente en el poder de la diversidad y la inclusión en la tecnología. Como mujer programadora, estoy comprometida a inspirar a otras mujeres a unirse a este fascinante campo y hacer oír nuestra voz en el universo digital.<br><br>💼 Actualmente, soy analista de datos, desarrolladora front-end, back-end y freelancer. Busco nuevas oportunidades para colaborar en proyectos emocionantes. Si tienes un proyecto en mente o estás en búsqueda de un apasionado miembro para tu equipo, estaré encantada de charlar contigo. ¡Vamos a crear algo grandioso juntos!<br><br>✨ ¡Atrévete a soñar en código y construyamos un futuro digital brillante!
-
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahgamahe) 
@@ -29,17 +29,35 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="60" height="40"/>
 </p>
 
-
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=magamahe&theme=radical&hide_border=false&include_all_commits=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=magamahe&theme=radical&hide_border=false&include_all_commits=true" alt="GitHub Stats" />
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=magamahe&theme=radical&hide_border=false)<br/>
-![Visitas](https://komarev.com/ghpvc/?username=magamahe&label=Profile%20views&color=0e75b6&style=flat)<br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=magamahe&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/magamahe">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magamahe&langs_count=8&theme=radical&hide_border=false&locale=en&custom_title=Tecnologías%20más%20usadas" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=magamahe&label=Profile%20views&color=ff69b4&style=flat" alt="Visitas" />
+</p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=magamahe&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+<!--   [![](https://visitcount.itsvg.in/api?id=magamahe&icon=0&color=0)](https://visitcount.itsvg.in) -->
+  
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=magamahe&icon=0&color=ff69b4" alt="Profile Visit Count" />
+  </a>
+</p>
