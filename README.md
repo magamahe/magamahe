@@ -1,6 +1,19 @@
 # 💫 About Me: <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" />
 <p align="center">
   
+<p align="center">
+  <!-- Banner animado -->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/magamahe/img/assets/tech-banner.svg" alt="Tech Banner" width="700"/>
+</p>
+
+
+
+<p align="center">
+  <!-- Texto animado -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=ff69b4&width=600&lines=Transformando+datos+en+decisiones;Creando+interfaces+modernas;Explorando+la+nube+en+Azure" />
+</p>
+
 <br>👋 ¡Hola a todos! Mi nombre es Maria Gabriela, una apasionada programadora y analista de datos de Argentina con un ardiente deseo de aprender y destacar en el mundo de la tecnología.<br><br>🚀 Mi viaje en la programación comenzó con una chispa de curiosidad y ha evolucionado en una pasión inquebrantable por crear soluciones innovadoras y eficientes. Cada línea de código que escribo es una oportunidad para mejorar, aprender y avanzar.<br><br>🌱 Estoy en constante búsqueda de desafíos que amplíen mis horizontes y me permitan colaborar en proyectos impactantes. Me emociona participar en comunidades de código abierto, donde la colaboración y el aprendizaje mutuo son el corazón de la innovación.<br><br>💡 Creo firmemente en el poder de la diversidad y la inclusión en la tecnología. Como mujer programadora, estoy comprometida a inspirar a otras mujeres a unirse a este fascinante campo y hacer oír nuestra voz en el universo digital.<br><br>💼 Actualmente, soy analista de datos, desarrolladora front-end, back-end y freelancer. Busco nuevas oportunidades para colaborar en proyectos emocionantes. Si tienes un proyecto en mente o estás en búsqueda de un apasionado miembro para tu equipo, estaré encantada de charlar contigo. ¡Vamos a crear algo grandioso juntos!<br><br>✨ ¡Atrévete a soñar en código y construyamos un futuro digital brillante!
 </p>
 
