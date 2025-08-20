@@ -1,4 +1,4 @@
-# 💫 About Me: <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" />
+# Professional Snapshot 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&width=600&lines=Analista+de+Datos+|+Full+Stack+Developer+|+AI+Enthusiast" alt="Typing SVG">
@@ -9,11 +9,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=ff69b4&width=600&lines=Transformando+datos+en+decisiones;Creando+interfaces+modernas;Explorando+la+nube+en+Azure" />
 </p>
 
-<br>👋 ¡Hola a todos! Mi nombre es Maria Gabriela, una apasionada programadora y analista de datos de Argentina con un ardiente deseo de aprender y destacar en el mundo de la tecnología.<br><br>🚀 Mi viaje en la programación comenzó con una chispa de curiosidad y ha evolucionado en una pasión inquebrantable por crear soluciones innovadoras y eficientes. Cada línea de código que escribo es una oportunidad para mejorar, aprender y avanzar.<br><br>🌱 Estoy en constante búsqueda de desafíos que amplíen mis horizontes y me permitan colaborar en proyectos impactantes. Me emociona participar en comunidades de código abierto, donde la colaboración y el aprendizaje mutuo son el corazón de la innovación.<br><br>💡 Creo firmemente en el poder de la diversidad y la inclusión en la tecnología. Como mujer programadora, estoy comprometida a inspirar a otras mujeres a unirse a este fascinante campo y hacer oír nuestra voz en el universo digital.<br><br>💼 Actualmente, soy analista de datos, desarrolladora front-end, back-end y freelancer. Busco nuevas oportunidades para colaborar en proyectos emocionantes. Si tienes un proyecto en mente o estás en búsqueda de un apasionado miembro para tu equipo, estaré encantada de charlar contigo. ¡Vamos a crear algo grandioso juntos!<br><br>✨ ¡Atrévete a soñar en código y construyamos un futuro digital brillante!
-</p>
+<br>## 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahgamahe) 
+Soy **Maria Gabriela**, analista de datos y desarrolladora full stack de Argentina, apasionada por **convertir datos en decisiones inteligentes** y crear **soluciones tecnológicas innovadoras**.  
+
+Me especializo en combinar **habilidades analíticas y de desarrollo** para diseñar productos y experiencias digitales eficientes, funcionales y con impacto real.  
+
+Disfruto participar en **proyectos desafiantes**, colaborar con equipos multidisciplinarios y contribuir al ecosistema de **código abierto**.  
+
+Comprometida con la **diversidad y la inclusión en tecnología**, busco inspirar a otras mujeres a sumarse al mundo tech y marcar la diferencia.  
+
+Actualmente trabajo como **Analista de Datos y Desarrolladora Full Stack**, y siempre estoy interesada en **colaboraciones y proyectos que permitan aprender y crecer profesionalmente**.  
+
+> "El código no solo se escribe, se vive."
+
+</p>
 
 # 💻 Tech Stack:
 <p align="left">
@@ -62,5 +72,13 @@
 </p>
 
 ---
-<p align="center">
-
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/magamahe">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:magamahe@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
+  </a>
+</p>
+<img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" />
