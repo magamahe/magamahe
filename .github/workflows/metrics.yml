@@ -16,4 +16,6 @@ jobs:
           config_timezone: America/Argentina/Buenos_Aires
           plugin_languages_colors: github
           plugin_languages_details: bytes-size, percentage
-          theme: radical
+          # ¡Cambio aquí para corregir la sintaxis!
+          config_output: svg
+          config_presets: radical
