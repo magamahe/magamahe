@@ -57,9 +57,10 @@ Actualmente trabajo como **Analista de Datos y Desarrolladora Full Stack**, y si
 </p>
 
 <p align="center">
-  <a href="https://github.com/magamahe">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magamahe&langs_count=8&theme=radical&hide_border=false&locale=en&custom_title=Tecnologías%20más%20usadas" alt="Top Languages" />
-  </a>
+ <a href="https://github.com/magamahe">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magamahe&layout=compact&langs_count=3&theme=radical&custom_title=Top%203%20Lenguajes" />
+</a>
+
 </p>
 
 <p align="center">
