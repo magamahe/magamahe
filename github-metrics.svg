@@ -21,11 +21,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="345.4302187622552" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="345.4302187622552" y="0" width="104.74726337424262" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="450.1774821364978" y="0" width="4.496164404505388" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="454.6736465410032" y="0" width="2.6817409744022247" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="457.3553875154054" y="0" width="2.6446124845945356" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="345.4138521139278" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="345.4138521139278" y="0" width="104.74230039900252" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="450.15615251293036" y="0" width="4.495951374093936" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="454.6521038870243" y="0" width="2.703408931380573" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="457.3555128184048" y="0" width="2.6444871815951263" height="8" fill="#555555"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -87,8 +87,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>862 kB</div>
-                                <div>0.58%</div>
+                                <div>870 kB</div>
+                                <div>0.59%</div>
                             </small>
                         </div>
                     </section>
